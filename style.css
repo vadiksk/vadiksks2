@@ -1,0 +1,49 @@
+header  {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+ }
+
+h2 {
+    color:green;
+}
+body {
+    background-image: url(http://zabavnik.club/wp-content/uploads/Kartinki_pro_kompyuter_2_08204831-1024x937.jpg);
+    background-repeat: no-repeat;
+    background-position: 200px 100px;
+    background-attachment: fixed;
+}
+.zagolovok {
+    color: orange;
+}
+main {
+    font-size: 16px;
+    font-weight: normal;
+    text-align: left;
+}
+.name_menu {
+    color: orange;
+}
+.info h3 {
+    color: green;
+}
+.price h3{
+    color: green;
+}
+.price ul {
+    color: brown;
+}
+footer {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: right;   
+}
+.contacts_name {
+    color: green;
+}
+.copyright {
+    color: black;
+    font-weight: bold;
+    font-size: 12px;
+   
+}
